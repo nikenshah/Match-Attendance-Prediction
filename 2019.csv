@@ -1,0 +1,800 @@
+Day,Date,Time,Home,Home Score,Away Score,Away,Attendance,Venue
+Sun,3/10/2019,17:00 (16:00),Atlanta,1,1,FC Cincinnati,"70,382",Mercedes-Benz Stadium
+Sun,3/17/2019,19:00 (18:00),Atlanta,1,1,Philadelphia,"42,651",Mercedes-Benz Stadium
+Sat,4/20/2019,16:00 (15:00),Atlanta,1,2,FC Dallas,"43,351",Mercedes-Benz Stadium
+Sat,4/27/2019,18:00 (17:00),Atlanta,1,0,Colorado,"43,005",Mercedes-Benz Stadium
+Wed,5/8/2019,19:00 (18:00),Atlanta,2,0,Toronto FC,"42,537",Mercedes-Benz Stadium
+Sun,5/12/2019,14:30 (13:30),Atlanta,1,0,Orlando City,"68,152",Mercedes-Benz Stadium
+Wed,5/29/2019,19:00 (18:00),Atlanta,3,0,Minnesota,"42,703",Mercedes-Benz Stadium
+Sat,6/1/2019,18:00 (17:00),Atlanta,2,0,Chicago,"67,502",Mercedes-Benz Stadium
+Sat,6/29/2019,18:00 (17:00),Atlanta,2,1,Montreal,"44,627",Mercedes-Benz Stadium
+Sun,7/7/2019,14:00 (13:00),Atlanta,3,3,NY Red Bulls,"68,077",Mercedes-Benz Stadium
+Wed,7/17/2019,19:00 (18:00),Atlanta,5,0,Houston,"42,557",Mercedes-Benz Stadium
+Sun,7/21/2019,16:00 (15:00),Atlanta,2,0,D.C. United,"44,405",Mercedes-Benz Stadium
+Sat,8/3/2019,17:00 (16:00),Atlanta,3,0,LA Galaxy,"72,548",Mercedes-Benz Stadium
+Sun,8/11/2019,15:55 (14:55),Atlanta,2,1,NYCFC,"44,052",Mercedes-Benz Stadium
+Sat,9/14/2019,19:00 (18:00),Atlanta,1,3,Columbus,"68,046",Mercedes-Benz Stadium
+Sat,9/21/2019,15:30 (14:30),Atlanta,3,1,San Jose,"43,451",Mercedes-Benz Stadium
+Sun,10/6/2019,16:00 (15:00),Atlanta,3,1,New England,"44,617",Mercedes-Benz Stadium
+Sun,3/11/2018,15:00 (14:00),Atlanta,3,1,D.C. United,"72,035",Mercedes-Benz Stadium
+Sat,3/17/2018,19:30 (18:30),Atlanta,4,1,Vancouver,"45,003",Mercedes-Benz Stadium
+Sat,4/7/2018,17:00 (16:00),Atlanta,5,0,Los Angeles FC,"45,207",Mercedes-Benz Stadium
+Sun,4/15/2018,18:00 (17:00),Atlanta,2,2,NYCFC,"45,001",Mercedes-Benz Stadium
+Sat,4/28/2018,13:00 (12:00),Atlanta,4,1,Montreal,"45,039",Mercedes-Benz Stadium
+Wed,5/9/2018,19:30 (18:30),Atlanta,0,2,Sporting KC,"44,696",Mercedes-Benz Stadium
+Sun,5/20/2018,19:00 (18:00),Atlanta,1,3,NY Red Bulls,"45,089",Mercedes-Benz Stadium
+Sat,6/2/2018,19:30 (18:30),Atlanta,3,1,Philadelphia,"45,140",Mercedes-Benz Stadium
+Sun,6/24/2018,16:30 (15:30),Atlanta,1,1,Portland,"45,116",Mercedes-Benz Stadium
+Sat,6/30/2018,19:00 (18:00),Atlanta,4,0,Orlando City,"71,932",Mercedes-Benz Stadium
+Sun,7/15/2018,14:00 (13:00),Atlanta,1,1,Seattle,"72,243",Mercedes-Benz Stadium
+Sat,7/21/2018,15:30 (14:30),Atlanta,3,1,D.C. United,"45,087",Mercedes-Benz Stadium
+Sat,8/4/2018,16:00 (15:00),Atlanta,2,2,Toronto FC,"45,191",Mercedes-Benz Stadium
+Sun,8/19/2018,16:00 (15:00),Atlanta,3,1,Columbus,"45,303",Mercedes-Benz Stadium
+Sat,9/22/2018,19:00 (18:00),Atlanta,2,0,Real Salt Lake,"72,017",Mercedes-Benz Stadium
+Sat,10/6/2018,15:30 (14:30),Atlanta,2,1,New England,"45,122",Mercedes-Benz Stadium
+Sun,10/21/2018,15:00 (14:00),Atlanta,2,1,Chicago,"71,812",Mercedes-Benz Stadium
+Sat,3/9/2019,12:00,Chicago,1,1,Orlando City,"11,041",SeatGeek Stadium
+Sat,3/16/2019,12:00,Chicago,2,4,Seattle,"10,032",SeatGeek Stadium
+Sat,3/30/2019,12:00,Chicago,1,0,NY Red Bulls,"12,013",SeatGeek Stadium
+Fri,4/12/2019,19:30,Chicago,1,1,Vancouver,"10,439",SeatGeek Stadium
+Sat,4/20/2019,12:00,Chicago,4,1,Colorado,"12,967",SeatGeek Stadium
+Wed,5/8/2019,19:00,Chicago,5,0,New England,"6,074",SeatGeek Stadium
+Sat,5/11/2019,19:00,Chicago,2,0,Minnesota,"11,531",SeatGeek Stadium
+Sat,5/25/2019,14:30,Chicago,1,1,NYCFC,"10,986",SeatGeek Stadium
+Sat,6/22/2019,19:00,Chicago,1,1,Real Salt Lake,"15,609",SeatGeek Stadium
+Wed,7/3/2019,19:00,Chicago,5,1,Atlanta,"13,476",SeatGeek Stadium
+Sat,7/13/2019,19:00,Chicago,1,2,FC Cincinnati,"13,127",SeatGeek Stadium
+Wed,7/17/2019,19:00,Chicago,2,2,Columbus,"7,482",SeatGeek Stadium
+Sat,7/27/2019,19:00,Chicago,0,0,D.C. United,"18,232",SeatGeek Stadium
+Sat,8/10/2019,20:00,Chicago,3,2,Montreal,"11,002",SeatGeek Stadium
+Sat,8/17/2019,19:00,Chicago,2,0,Philadelphia,"14,883",SeatGeek Stadium
+Sat,9/14/2019,14:30,Chicago,4,0,FC Dallas,"12,874",SeatGeek Stadium
+Sun,9/29/2019,16:00,Chicago,2,2,Toronto FC,"17,748",SeatGeek Stadium
+Sat,3/10/2018,17:00,Chicago,3,4,Sporting KC,"14,021",SeatGeek Stadium
+Sat,3/31/2018,17:00,Chicago,2,2,Portland,"13,678",SeatGeek Stadium
+Sat,4/7/2018,19:30,Chicago,1,0,Columbus,"11,023",SeatGeek Stadium
+Sat,4/14/2018,14:30,Chicago,0,1,LA Galaxy,"21,915",SeatGeek Stadium
+Sat,5/5/2018,19:30,Chicago,1,2,Atlanta,"15,024",SeatGeek Stadium
+Wed,5/9/2018,19:30,Chicago,1,0,Montreal,"10,067",SeatGeek Stadium
+Sun,5/20/2018,15:00,Chicago,2,3,Houston,"14,206",SeatGeek Stadium
+Sat,6/2/2018,19:30,Chicago,2,1,San Jose,"14,138",SeatGeek Stadium
+Sat,6/9/2018,19:30,Chicago,1,1,New England,"14,415",SeatGeek Stadium
+Sat,6/30/2018,19:00,Chicago,3,2,NYCFC,"15,204",SeatGeek Stadium
+Wed,7/11/2018,19:30,Chicago,3,4,Philadelphia,"12,008",SeatGeek Stadium
+Sat,7/21/2018,18:00,Chicago,1,2,Toronto FC,"15,177",SeatGeek Stadium
+Sat,8/11/2018,19:30,Chicago,0,1,NY Red Bulls,"18,064",SeatGeek Stadium
+Thu,8/23/2018,18:00,Chicago,1,1,Columbus,"8,551",SeatGeek Stadium
+Sun,9/16/2018,16:00,Chicago,4,0,Orlando City,"16,287",SeatGeek Stadium
+Sat,9/29/2018,14:30,Chicago,3,1,Los Angeles FC,"18,471",SeatGeek Stadium
+Sun,10/28/2018,15:30,Chicago,0,0,D.C. United,"19,459",SeatGeek Stadium
+Sat,3/2/2019,16:00 (17:00),Colorado,3,3,Portland,"12,717",Dick's Sporting Goods Park
+Sun,3/17/2019,19:00 (20:00),Colorado,1,1,Sporting KC,"11,037",Dick's Sporting Goods Park
+Sat,3/30/2019,19:00 (20:00),Colorado,1,4,Houston,"11,061",Dick's Sporting Goods Park
+Sat,4/13/2019,19:00 (20:00),Colorado,2,3,D.C. United,"15,094",Dick's Sporting Goods Park
+Fri,5/3/2019,19:00 (20:00),Colorado,2,3,Vancouver,"10,794",Dick's Sporting Goods Park
+Sat,5/11/2019,19:00 (20:00),Colorado,2,3,Real Salt Lake,"15,437",Dick's Sporting Goods Park
+Sat,5/25/2019,19:00 (20:00),Colorado,3,2,Columbus,"16,843",Dick's Sporting Goods Park
+Sat,6/1/2019,18:30 (19:30),Colorado,3,1,FC Cincinnati,"16,998",Dick's Sporting Goods Park
+Sat,6/8/2019,19:00 (20:00),Colorado,1,0,Minnesota,"14,160",Dick's Sporting Goods Park
+Fri,6/28/2019,20:00 (21:00),Colorado,1,0,Los Angeles FC,"15,968",Dick's Sporting Goods Park
+Thu,7/4/2019,19:00 (20:00),Colorado,1,2,New England,"15,584",Dick's Sporting Goods Park
+Sat,7/20/2019,19:00 (20:00),Colorado,1,2,NYCFC,"15,359",Dick's Sporting Goods Park
+Sat,8/3/2019,19:00 (20:00),Colorado,6,3,Montreal,"14,007",Dick's Sporting Goods Park
+Sat,8/10/2019,19:00 (20:00),Colorado,2,1,San Jose,"13,870",Dick's Sporting Goods Park
+Sat,9/7/2019,19:00 (20:00),Colorado,2,0,Seattle,"16,607",Dick's Sporting Goods Park
+Wed,9/11/2019,19:00 (20:00),Colorado,2,1,LA Galaxy,"10,945",Dick's Sporting Goods Park
+Sun,9/29/2019,17:30 (18:30),Colorado,3,0,FC Dallas,"16,352",Dick's Sporting Goods Park
+Sat,3/24/2018,19:00 (20:00),Colorado,2,2,Sporting KC,"17,424",Dick's Sporting Goods Park
+Sat,3/31/2018,19:00 (20:00),Colorado,3,0,Philadelphia,"10,790",Dick's Sporting Goods Park
+Sat,4/14/2018,13:00 (14:00),Colorado,2,0,Toronto FC,"11,232",Dick's Sporting Goods Park
+Sun,4/29/2018,14:00 (15:00),Colorado,1,2,Orlando City,"15,702",Dick's Sporting Goods Park
+Sat,5/12/2018,19:00 (20:00),Colorado,1,2,NY Red Bulls,"15,691",Dick's Sporting Goods Park
+Sat,5/26/2018,19:00 (20:00),Colorado,2,3,Portland,"17,424",Dick's Sporting Goods Park
+Fri,6/1/2018,19:00 (20:00),Colorado,1,2,Vancouver,"16,746",Dick's Sporting Goods Park
+Wed,6/13/2018,19:00 (20:00),Colorado,2,2,Chicago,"16,068",Dick's Sporting Goods Park
+Sat,6/23/2018,19:00 (20:00),Colorado,3,2,Minnesota,"13,664",Dick's Sporting Goods Park
+Wed,7/4/2018,19:00 (20:00),Colorado,1,2,Seattle,"16,374",Dick's Sporting Goods Park
+Sat,7/14/2018,19:00 (20:00),Colorado,0,0,Houston,"14,327",Dick's Sporting Goods Park
+Sat,8/4/2018,19:00 (20:00),Colorado,2,1,LA Galaxy,"17,837",Dick's Sporting Goods Park
+Sat,8/11/2018,19:00 (20:00),Colorado,2,1,San Jose,"15,383",Dick's Sporting Goods Park
+Sat,8/25/2018,19:00 (20:00),Colorado,0,6,Real Salt Lake,"16,669",Dick's Sporting Goods Park
+Sat,9/15/2018,13:30 (14:30),Colorado,0,3,Atlanta,"14,788",Dick's Sporting Goods Park
+Sat,10/6/2018,19:00 (20:00),Colorado,0,3,Los Angeles FC,"15,369",Dick's Sporting Goods Park
+Sun,10/28/2018,14:30 (15:30),Colorado,2,1,FC Dallas,"15,172",Dick's Sporting Goods Park
+Sat,3/2/2019,16:30 (15:30),Columbus,1,1,NY Red Bulls,"17,931",MAPFRE Stadium
+Sat,3/16/2019,14:00 (13:00),Columbus,1,0,FC Dallas,"9,687",MAPFRE Stadium
+Sat,3/30/2019,19:30 (18:30),Columbus,2,0,Atlanta,"10,973",MAPFRE Stadium
+Sat,4/6/2019,19:30 (18:30),Columbus,1,0,New England,"10,942",MAPFRE Stadium
+Sat,4/20/2019,19:30 (18:30),Columbus,1,3,Portland,"11,707",MAPFRE Stadium
+Wed,4/24/2019,19:30 (18:30),Columbus,0,1,D.C. United,"10,169",MAPFRE Stadium
+Wed,5/8/2019,19:30 (18:30),Columbus,3,1,LA Galaxy,"13,207",MAPFRE Stadium
+Sat,5/11/2019,19:30 (18:30),Columbus,0,3,Los Angeles FC,"18,048",MAPFRE Stadium
+Sat,6/1/2019,19:30 (18:30),Columbus,2,2,NYCFC,"13,704",MAPFRE Stadium
+Sun,6/23/2019,17:30 (16:30),Columbus,0,1,Sporting KC,"14,015",MAPFRE Stadium
+Sat,6/29/2019,19:30 (18:30),Columbus,0,2,Orlando City,"17,715",MAPFRE Stadium
+Sat,7/6/2019,19:30 (18:30),Columbus,1,2,Seattle,"14,183",MAPFRE Stadium
+Sat,7/20/2019,19:30 (18:30),Columbus,2,1,Montreal,"15,124",MAPFRE Stadium
+Sat,8/10/2019,19:30 (18:30),Columbus,2,2,FC Cincinnati,"20,865",MAPFRE Stadium
+Sat,8/17/2019,19:30 (18:30),Columbus,2,2,Toronto FC,"17,494",MAPFRE Stadium
+Sat,8/31/2019,19:30 (18:30),Columbus,1,1,Chicago,"16,438",MAPFRE Stadium
+Sun,9/29/2019,17:00 (16:00),Columbus,2,0,Philadelphia,"20,353",MAPFRE Stadium
+Sat,3/10/2018,13:00 (12:00),Columbus,3,2,Montreal,"11,098",MAPFRE Stadium
+Sat,3/24/2018,18:00 (17:00),Columbus,3,1,D.C. United,"8,443",MAPFRE Stadium
+Sat,3/31/2018,15:00 (14:00),Columbus,1,2,Vancouver,"8,992",MAPFRE Stadium
+Sat,4/21/2018,19:30 (18:30),Columbus,2,2,New England,"11,264",MAPFRE Stadium
+Sat,4/28/2018,19:30 (18:30),Columbus,2,1,San Jose,"11,479",MAPFRE Stadium
+Wed,5/9/2018,19:30 (18:30),Columbus,1,0,Philadelphia,"7,683",MAPFRE Stadium
+Sat,5/12/2018,19:30 (18:30),Columbus,3,0,Chicago,"11,108",MAPFRE Stadium
+Sat,6/2/2018,19:30 (18:30),Columbus,3,3,Toronto FC,"12,305",MAPFRE Stadium
+Sat,6/9/2018,17:00 (16:00),Columbus,1,1,NY Red Bulls,"11,246",MAPFRE Stadium
+Wed,6/13/2018,19:30 (18:30),Columbus,0,2,Atlanta,"10,132",MAPFRE Stadium
+Sat,6/30/2018,19:30 (18:30),Columbus,2,1,Real Salt Lake,"16,680",MAPFRE Stadium
+Sat,7/21/2018,19:30 (18:30),Columbus,3,2,Orlando City,"14,052",MAPFRE Stadium
+Sat,8/11/2018,19:30 (18:30),Columbus,1,0,Houston,"15,891",MAPFRE Stadium
+Sat,9/1/2018,20:00 (19:00),Columbus,2,1,NYCFC,"11,991",MAPFRE Stadium
+Sat,9/22/2018,19:30 (18:30),Columbus,2,1,Colorado,"19,121",MAPFRE Stadium
+Sat,9/29/2018,19:30 (18:30),Columbus,0,0,Philadelphia,"12,441",MAPFRE Stadium
+Sun,10/28/2018,16:30 (15:30),Columbus,3,2,Minnesota,"17,677",MAPFRE Stadium
+Sun,3/3/2019,18:00 (17:00),D.C. United,2,0,Atlanta,"16,942",Audi Field
+Sat,3/16/2019,20:00 (19:00),D.C. United,5,0,Real Salt Lake,"17,190",Audi Field
+Sat,4/6/2019,15:00 (14:00),D.C. United,0,4,Los Angeles FC,"20,600",Audi Field
+Tue,4/9/2019,20:00 (19:00),D.C. United,0,0,Montreal,"18,116",Audi Field
+Sun,4/21/2019,16:00 (15:00),D.C. United,0,2,NYCFC,"18,004",Audi Field
+Sat,5/4/2019,20:00 (19:00),D.C. United,3,1,Columbus,"16,687",Audi Field
+Sun,5/12/2019,19:00 (18:00),D.C. United,1,0,Sporting KC,"12,521",Audi Field
+Wed,5/29/2019,20:00 (19:00),D.C. United,3,3,Chicago,"14,201",Audi Field
+Sat,6/1/2019,20:00 (19:00),D.C. United,1,1,San Jose,"18,002",Audi Field
+Wed,6/26/2019,20:00 (19:00),D.C. United,1,0,Orlando City,"17,398",Audi Field
+Sat,6/29/2019,20:00 (19:00),D.C. United,1,1,Toronto FC,"18,854",Audi Field
+Fri,7/12/2019,19:00 (18:00),D.C. United,2,2,New England,"18,903",Audi Field
+Sun,8/4/2019,19:30 (18:30),D.C. United,1,5,Philadelphia,"18,697",Audi Field
+Sun,8/11/2019,19:30 (18:30),D.C. United,2,1,LA Galaxy,"20,006",Audi Field
+Wed,8/21/2019,20:00 (19:00),D.C. United,1,2,NY Red Bulls,"18,302",Audi Field
+Sun,9/22/2019,20:00 (19:00),D.C. United,2,0,Seattle,"18,489",Audi Field
+Sun,10/6/2019,16:00 (15:00),D.C. United,0,0,FC Cincinnati,"18,732",Audi Field
+Sat,3/17/2018,13:30 (12:30),D.C. United,2,2,Houston,"5,128",Audi Field
+Sun,4/15/2018,05:00 (18:00),D.C. United,1,0,Columbus,"12,396",Audi Field
+Sat,7/14/2018,20:00 (19:00),D.C. United,3,1,Vancouver,"20,504",Audi Field
+Wed,7/25/2018,21:00 (20:00),D.C. United,0,1,NY Red Bulls,"15,655",Audi Field
+Sat,7/28/2018,20:00 (19:00),D.C. United,2,1,Colorado,"18,931",Audi Field
+Sun,8/12/2018,20:00 (19:00),D.C. United,3,2,Orlando City,"17,020",Audi Field
+Wed,8/15/2018,20:00 (19:00),D.C. United,4,1,Portland,"18,219",Audi Field
+Sun,8/19/2018,19:30 (18:30),D.C. United,2,0,New England,"20,198",Audi Field
+Wed,8/29/2018,20:00 (19:00),D.C. United,0,2,Philadelphia,"17,692",Audi Field
+Sun,9/2/2018,19:30 (18:30),D.C. United,3,1,Atlanta,"20,557",Audi Field
+Wed,9/12/2018,19:30 (18:30),D.C. United,2,1,Minnesota,"16,114",Audi Field
+Sun,9/16/2018,13:00 (12:00),D.C. United,3,3,NY Red Bulls,"18,331",Audi Field
+Sat,9/29/2018,19:00 (18:00),D.C. United,5,0,Montreal,"20,573",Audi Field
+Sun,10/7/2018,13:00 (12:00),D.C. United,2,1,Chicago,"20,064",Audi Field
+Sat,10/13/2018,16:55 (15:55),D.C. United,1,0,FC Dallas,"19,610",Audi Field
+Wed,10/17/2018,19:30 (18:30),D.C. United,1,0,Toronto FC,"18,562",Audi Field
+Sun,10/21/2018,15:00 (14:00),D.C. United,3,1,NYCFC,"20,249",Audi Field
+Sun,3/17/2019,17:00 (16:00),FC Cincinnati,3,0,Portland,"32,250",Nippert Stadium
+Sat,3/30/2019,19:30 (18:30),FC Cincinnati,0,2,Philadelphia,"25,867",Nippert Stadium
+Sun,4/7/2019,15:00 (14:00),FC Cincinnati,1,1,Sporting KC,"26,023",Nippert Stadium
+Fri,4/19/2019,19:30 (18:30),FC Cincinnati,0,3,Real Salt Lake,"26,416",Nippert Stadium
+Sat,5/11/2019,13:00 (12:00),FC Cincinnati,2,1,Montreal,"26,258",Nippert Stadium
+Sat,5/25/2019,19:30 (18:30),FC Cincinnati,0,2,NY Red Bulls,"28,290",Nippert Stadium
+Sat,6/22/2019,19:30 (18:30),FC Cincinnati,0,2,LA Galaxy,"32,250",Nippert Stadium
+Sat,7/6/2019,19:30 (18:30),FC Cincinnati,3,2,Houston,"26,276",Nippert Stadium
+Thu,7/18/2019,20:00 (19:00),FC Cincinnati,1,4,D.C. United,"28,774",Nippert Stadium
+Sun,7/21/2019,18:00 (17:00),FC Cincinnati,0,2,New England,"25,095",Nippert Stadium
+Sat,8/3/2019,20:00 (19:00),FC Cincinnati,1,2,Vancouver,"27,106",Nippert Stadium
+Sat,8/17/2019,19:30 (18:30),FC Cincinnati,1,4,NYCFC,"27,273",Nippert Stadium
+Sun,8/25/2019,18:00 (17:00),FC Cincinnati,1,3,Columbus,"30,611",Nippert Stadium
+Sat,9/7/2019,19:30 (18:30),FC Cincinnati,1,5,Toronto FC,"25,339",Nippert Stadium
+Wed,9/18/2019,19:30 (18:30),FC Cincinnati,0,2,Atlanta,"24,774",Nippert Stadium
+Sat,9/21/2019,19:30 (18:30),FC Cincinnati,0,0,Chicago,"26,466",Nippert Stadium
+Sun,9/29/2019,17:00 (16:00),FC Cincinnati,1,1,Orlando City,"25,652",Nippert Stadium
+Sat,3/2/2019,15:30,FC Dallas,1,1,New England,"14,327",Toyota Stadium
+Sat,3/9/2019,14:30,FC Dallas,2,0,LA Galaxy,"17,220",Toyota Stadium
+Sat,3/23/2019,16:45,FC Dallas,2,1,Colorado,"14,514",Toyota Stadium
+Sat,4/13/2019,19:00,FC Dallas,2,1,Portland,"14,376",Toyota Stadium
+Sat,4/27/2019,14:30,FC Dallas,0,0,San Jose,"14,087",Toyota Stadium
+Sat,5/11/2019,13:00,FC Dallas,1,3,NY Red Bulls,"12,263",Toyota Stadium
+Sun,5/19/2019,18:30,FC Dallas,1,1,Los Angeles FC,"15,135",Toyota Stadium
+Sat,6/1/2019,19:00,FC Dallas,2,1,Seattle,"14,327",Toyota Stadium
+Sat,6/22/2019,19:00,FC Dallas,3,0,Toronto FC,"13,623",Toyota Stadium
+Wed,6/26/2019,20:00,FC Dallas,2,2,Vancouver,"11,911",Toyota Stadium
+Thu,7/4/2019,20:00,FC Dallas,2,0,D.C. United,"19,096",Toyota Stadium
+Sat,7/27/2019,19:00,FC Dallas,0,0,Real Salt Lake,"14,717",Toyota Stadium
+Sat,8/10/2019,19:00,FC Dallas,5,3,Minnesota,"15,168",Toyota Stadium
+Sun,8/25/2019,19:00,FC Dallas,5,1,Houston,"15,452",Toyota Stadium
+Sat,8/31/2019,19:00,FC Dallas,3,1,FC Cincinnati,"15,811",Toyota Stadium
+Sun,9/22/2019,17:00,FC Dallas,1,1,NYCFC,"14,663",Toyota Stadium
+Sun,10/6/2019,15:00,FC Dallas,6,0,Sporting KC,"15,623",Toyota Stadium
+Sat,3/3/2018,19:00,FC Dallas,1,1,Real Salt Lake,"16,116",Toyota Stadium
+Sun,3/18/2018,16:00,FC Dallas,3,0,Seattle,"13,310",Toyota Stadium
+Sat,3/24/2018,14:30,FC Dallas,1,1,Portland,"13,851",Toyota Stadium
+Sat,4/7/2018,19:00,FC Dallas,1,1,Colorado,"13,147",Toyota Stadium
+Sat,4/21/2018,19:00,FC Dallas,2,0,Philadelphia,"13,326",Toyota Stadium
+Sat,5/12/2018,14:30,FC Dallas,3,2,LA Galaxy,"18,355",Toyota Stadium
+Sat,5/19/2018,15:00,FC Dallas,2,2,Vancouver,"13,907",Toyota Stadium
+Sat,6/2/2018,19:00,FC Dallas,2,1,Los Angeles FC,"14,022",Toyota Stadium
+Sat,6/9/2018,19:00,FC Dallas,2,0,Montreal,"13,506",Toyota Stadium
+Wed,7/4/2018,19:00,FC Dallas,3,2,Atlanta,"17,298",Toyota Stadium
+Sat,7/14/2018,19:00,FC Dallas,3,1,Chicago,"16,000",Toyota Stadium
+Sat,8/4/2018,19:00,FC Dallas,1,3,San Jose,"17,282",Toyota Stadium
+Sat,8/18/2018,19:00,FC Dallas,2,0,Minnesota,"15,107",Toyota Stadium
+Sat,9/1/2018,19:00,FC Dallas,4,2,Houston,"16,835",Toyota Stadium
+Sat,9/15/2018,19:00,FC Dallas,0,0,Columbus,"16,030",Toyota Stadium
+Sat,10/6/2018,19:00,FC Dallas,2,0,Orlando City,"16,519",Toyota Stadium
+Sun,10/21/2018,16:00,FC Dallas,0,3,Sporting KC,"19,096",Toyota Stadium
+Sat,3/2/2019,17:00,Houston,1,1,Real Salt Lake,"16,827",BBVA Compass Stadium
+Sat,3/9/2019,16:00,Houston,2,1,Montreal,"12,601",BBVA Compass Stadium
+Sat,3/16/2019,14:00,Houston,3,2,Vancouver,"13,549",BBVA Compass Stadium
+Sat,4/13/2019,14:00,Houston,2,1,San Jose,"14,476",BBVA Compass Stadium
+Sat,4/27/2019,19:30,Houston,2,0,Columbus,"15,557",BBVA Compass Stadium
+Sat,5/4/2019,15:00,Houston,2,1,FC Dallas,"16,521",BBVA Compass Stadium
+Wed,5/15/2019,19:30,Houston,1,1,Portland,"13,327",BBVA Compass Stadium
+Sat,5/18/2019,19:30,Houston,2,1,D.C. United,"15,811",BBVA Compass Stadium
+Sat,6/1/2019,19:30,Houston,1,1,Sporting KC,"15,710",BBVA Compass Stadium
+Wed,7/3/2019,20:00,Houston,4,0,NY Red Bulls,"19,531",BBVA Compass Stadium
+Fri,7/12/2019,20:00,Houston,1,3,Los Angeles FC,"17,219",BBVA Compass Stadium
+Sat,7/27/2019,19:00,Houston,0,1,Seattle,"15,138",BBVA Compass Stadium
+Sat,8/3/2019,20:00,Houston,0,1,Chicago,"14,250",BBVA Compass Stadium
+Sat,8/17/2019,20:00,Houston,2,2,Colorado,"15,458",BBVA Compass Stadium
+Wed,9/11/2019,19:30,Houston,2,0,Minnesota,"13,566",BBVA Compass Stadium
+Sat,9/21/2019,19:30,Houston,2,1,Orlando City,"15,146",BBVA Compass Stadium
+Sun,10/6/2019,15:00,Houston,4,2,LA Galaxy,"21,777",BBVA Compass Stadium
+Sat,3/3/2018,14:30,Houston,4,0,Atlanta,"20,377",BBVA Compass Stadium
+Sat,3/10/2018,17:00,Houston,1,2,Vancouver,"16,082",BBVA Compass Stadium
+Sat,3/31/2018,19:30,Houston,0,2,New England,"17,156",BBVA Compass Stadium
+Sat,4/21/2018,14:00,Houston,5,1,Toronto FC,"17,109",BBVA Compass Stadium
+Sat,5/5/2018,19:30,Houston,3,2,LA Galaxy,"22,320",BBVA Compass Stadium
+Fri,5/25/2018,19:55,Houston,3,1,NYCFC,"18,123",BBVA Compass Stadium
+Sat,6/9/2018,20:00,Houston,2,0,Colorado,"16,058",BBVA Compass Stadium
+Tue,7/3/2018,20:00,Houston,2,2,Los Angeles FC,"16,037",BBVA Compass Stadium
+Sat,7/7/2018,20:00,Houston,3,0,Minnesota,"13,947",BBVA Compass Stadium
+Sat,7/21/2018,20:00,Houston,1,1,FC Dallas,"19,295",BBVA Compass Stadium
+Wed,7/25/2018,20:00,Houston,1,3,Philadelphia,"13,094",BBVA Compass Stadium
+Sat,8/4/2018,20:00,Houston,0,1,Sporting KC,"14,675",BBVA Compass Stadium
+Sat,8/18/2018,20:00,Houston,1,2,Real Salt Lake,"15,072",BBVA Compass Stadium
+Thu,8/23/2018,20:00,Houston,1,1,FC Dallas,"16,544",BBVA Compass Stadium
+Sat,9/15/2018,19:30,Houston,4,1,Portland,"15,256",BBVA Compass Stadium
+Sat,9/29/2018,19:30,Houston,3,2,San Jose,"17,136",BBVA Compass Stadium
+Sun,10/21/2018,16:00,Houston,2,3,Seattle,"19,127",BBVA Compass Stadium
+Sat,3/2/2019,17:00 (19:00),LA Galaxy,2,1,Chicago,"25,866",Dignity Health Sports Park
+Sat,3/16/2019,19:30 (21:30),LA Galaxy,3,2,Minnesota,"21,177",Dignity Health Sports Park
+Sun,3/31/2019,18:00 (20:00),LA Galaxy,2,1,Portland,"23,820",Dignity Health Sports Park
+Sat,4/13/2019,19:30 (21:30),LA Galaxy,2,0,Philadelphia,"24,053",Banc of California Stadium
+Fri,4/19/2019,20:00 (22:00),LA Galaxy,2,1,Houston,"21,503",Dignity Health Sports Park
+Sun,4/28/2019,17:00 (19:00),LA Galaxy,2,1,Real Salt Lake,"20,615",Dignity Health Sports Park
+Sat,5/11/2019,13:00 (15:00),LA Galaxy,0,2,NYCFC,"22,806",Dignity Health Sports Park
+Sun,5/19/2019,17:00 (19:00),LA Galaxy,0,1,Colorado,"19,015",Dignity Health Sports Park
+Sun,6/2/2019,19:30 (21:30),LA Galaxy,1,2,New England,"20,828",Dignity Health Sports Park
+Thu,7/4/2019,19:30 (21:30),LA Galaxy,2,0,Toronto FC,"25,482",Dignity Health Sports Park
+Fri,7/12/2019,20:00 (22:00),LA Galaxy,1,3,San Jose,"22,508",Dignity Health Sports Park
+Fri,7/19/2019,19:00 (21:00),LA Galaxy,3,2,Los Angeles FC,"27,088",Dignity Health Sports Park
+Wed,8/14/2019,19:30 (21:30),LA Galaxy,2,0,FC Dallas,"19,653",Dignity Health Sports Park
+Sat,8/17/2019,19:00 (21:00),LA Galaxy,2,2,Seattle,"26,213",Dignity Health Sports Park
+Sun,9/15/2019,19:00 (21:00),LA Galaxy,7,2,Sporting KC,"22,465",Dignity Health Sports Park
+Sat,9/21/2019,19:30 (21:30),LA Galaxy,2,1,Montreal,"25,482",Dignity Health Sports Park
+Sun,9/29/2019,16:30 (18:30),LA Galaxy,3,4,Vancouver,"25,903",Dignity Health Sports Park
+Sun,3/4/2018,19:00 (21:00),LA Galaxy,2,1,Portland,"25,462",Dignity Health Sports Park
+Sat,3/31/2018,12:00 (14:00),LA Galaxy,4,3,Los Angeles FC,"27,068",Dignity Health Sports Park
+Sun,4/8/2018,18:00 (20:00),LA Galaxy,0,2,Sporting KC,"25,846",Dignity Health Sports Park
+Sat,4/21/2018,19:30 (21:30),LA Galaxy,0,2,Atlanta,"25,846",Dignity Health Sports Park
+Sat,4/28/2018,19:30 (21:30),LA Galaxy,2,3,NY Red Bulls,"26,704",Dignity Health Sports Park
+Fri,5/25/2018,20:00 (22:00),LA Galaxy,1,0,San Jose,"23,118",Dignity Health Sports Park
+Wed,5/30/2018,19:30 (21:30),LA Galaxy,2,3,FC Dallas,"18,003",Dignity Health Sports Park
+Sat,6/9/2018,19:30 (21:30),LA Galaxy,3,0,Real Salt Lake,"25,462",Dignity Health Sports Park
+Wed,7/4/2018,19:30 (21:30),LA Galaxy,2,2,D.C. United,"25,462",Dignity Health Sports Park
+Sat,7/7/2018,19:30 (21:30),LA Galaxy,4,0,Columbus,"21,211",Dignity Health Sports Park
+Sun,7/29/2018,18:30 (20:30),LA Galaxy,4,3,Orlando City,"24,941",Dignity Health Sports Park
+Sat,8/11/2018,19:30 (21:30),LA Galaxy,2,2,Minnesota,"24,891",Dignity Health Sports Park
+Tue,8/14/2018,19:30 (21:30),LA Galaxy,2,2,Colorado,"16,231",Dignity Health Sports Park
+Fri,8/24/2018,19:30 (21:30),LA Galaxy,1,1,Los Angeles FC,"27,068",Dignity Health Sports Park
+Sun,9/23/2018,16:00 (18:00),LA Galaxy,3,0,Seattle,"25,503",Dignity Health Sports Park
+Sat,9/29/2018,19:00 (21:00),LA Galaxy,3,0,Vancouver,"25,659",Dignity Health Sports Park
+Sun,10/28/2018,13:30 (15:30),LA Galaxy,2,3,Houston,"27,068",Dignity Health Sports Park
+Sun,3/3/2019,17:30 (19:30),Los Angeles FC,2,1,Sporting KC,"22,099",Banc of California Stadium
+Sun,3/10/2019,16:30 (18:30),Los Angeles FC,4,1,Portland,"22,003",Banc of California Stadium
+Sat,3/23/2019,19:30 (21:30),Los Angeles FC,2,1,Real Salt Lake,"22,023",Banc of California Stadium
+Sat,4/13/2019,19:30 (21:30),Los Angeles FC,2,0,FC Cincinnati,"22,323",Dignity Health Sports Park
+Sun,4/21/2019,16:00 (18:00),Los Angeles FC,4,1,Seattle,"22,221",Banc of California Stadium
+Sat,5/4/2019,19:30 (21:30),Los Angeles FC,0,0,Chicago,"22,154",Banc of California Stadium
+Thu,5/16/2019,19:00 (21:00),Los Angeles FC,2,0,FC Dallas,"22,001",Banc of California Stadium
+Fri,5/24/2019,19:30 (21:30),Los Angeles FC,4,2,Montreal,"22,444",Banc of California Stadium
+Sat,7/6/2019,19:30 (21:30),Los Angeles FC,6,1,Vancouver,"22,472",Banc of California Stadium
+Fri,7/26/2019,19:00 (21:00),Los Angeles FC,4,3,Atlanta,"22,511",Banc of California Stadium
+Sun,8/11/2019,19:00 (21:00),Los Angeles FC,4,2,NY Red Bulls,"22,342",Banc of California Stadium
+Wed,8/21/2019,19:30 (21:30),Los Angeles FC,4,0,San Jose,"22,110",Banc of California Stadium
+Sun,8/25/2019,19:30 (21:30),Los Angeles FC,3,3,LA Galaxy,"22,757",Banc of California Stadium
+Sun,9/1/2019,19:30 (21:30),Los Angeles FC,0,2,Minnesota,"22,143",Banc of California Stadium
+Sat,9/21/2019,19:30 (21:30),Los Angeles FC,1,1,Toronto FC,"22,022",Banc of California Stadium
+Wed,9/25/2019,19:30 (21:30),Los Angeles FC,3,1,Houston,"22,103",Banc of California Stadium
+Sun,10/6/2019,13:00 (15:00),Los Angeles FC,3,1,Colorado,"22,537",Banc of California Stadium
+Sun,4/29/2018,18:00 (20:00),Los Angeles FC,1,0,Seattle,"22,000",Banc of California Stadium
+Sat,5/5/2018,12:55 (14:55),Los Angeles FC,1,1,FC Dallas,"22,000",Banc of California Stadium
+Wed,5/9/2018,19:00 (21:00),Los Angeles FC,2,0,Minnesota,"22,000",Banc of California Stadium
+Sun,5/13/2018,17:30 (19:30),Los Angeles FC,2,2,NYCFC,"22,000",Banc of California Stadium
+Sat,5/26/2018,19:00 (21:00),Los Angeles FC,1,1,D.C. United,"22,000",Banc of California Stadium
+Sat,6/23/2018,19:30 (21:30),Los Angeles FC,2,0,Columbus,"22,000",Banc of California Stadium
+Sat,6/30/2018,17:00 (19:00),Los Angeles FC,4,1,Philadelphia,"22,000",Banc of California Stadium
+Sat,7/7/2018,20:00 (22:00),Los Angeles FC,4,1,Orlando City,"22,000",Banc of California Stadium
+Sun,7/15/2018,15:00 (17:00),Los Angeles FC,0,0,Portland,"22,000",Banc of California Stadium
+Thu,7/26/2018,19:30 (21:30),Los Angeles FC,2,2,LA Galaxy,"22,716",Banc of California Stadium
+Sat,8/11/2018,19:30 (21:30),Los Angeles FC,0,2,Sporting KC,"22,000",Banc of California Stadium
+Wed,8/15/2018,19:00 (21:00),Los Angeles FC,2,0,Real Salt Lake,"22,000",Banc of California Stadium
+Sun,8/19/2018,19:00 (21:00),Los Angeles FC,2,0,Colorado,"22,000",Banc of California Stadium
+Sat,9/15/2018,19:30 (21:30),Los Angeles FC,1,1,New England,"22,000",Banc of California Stadium
+Sat,9/22/2018,12:30 (14:30),Los Angeles FC,2,0,San Jose,"22,000",Banc of California Stadium
+Fri,10/12/2018,19:00 (21:00),Los Angeles FC,4,2,Houston,"22,000",Banc of California Stadium
+Sun,10/21/2018,14:00 (16:00),Los Angeles FC,2,2,Vancouver,"22,000",Banc of California Stadium
+Sat,4/13/2019,16:00,Minnesota,3,3,NYCFC,"19,796",Allianz Field
+Wed,4/24/2019,19:00,Minnesota,0,0,LA Galaxy,"19,779",Allianz Field
+Sun,4/28/2019,12:30,Minnesota,1,0,D.C. United,"19,620",Allianz Field
+Sat,5/4/2019,19:00,Minnesota,1,1,Seattle,"19,832",Allianz Field
+Sat,5/18/2019,19:00,Minnesota,1,0,Columbus,"19,600",Allianz Field
+Sat,5/25/2019,19:00,Minnesota,1,0,Houston,"19,701",Allianz Field
+Sun,6/2/2019,15:00,Minnesota,2,3,Philadelphia,"19,738",Allianz Field
+Sat,6/29/2019,15:00,Minnesota,7,1,FC Cincinnati,"19,778",Allianz Field
+Wed,7/3/2019,19:00,Minnesota,3,1,San Jose,"19,653",Allianz Field
+Sat,7/13/2019,19:00,Minnesota,1,0,FC Dallas,"19,906",Allianz Field
+Sat,7/27/2019,19:00,Minnesota,0,0,Vancouver,"19,845",Allianz Field
+Sun,8/4/2019,15:00,Minnesota,1,0,Portland,"19,726",Allianz Field
+Wed,8/14/2019,19:00,Minnesota,1,0,Colorado,"19,629",Allianz Field
+Sat,8/17/2019,19:00,Minnesota,1,1,Orlando City,"19,738",Allianz Field
+Sun,9/15/2019,16:30,Minnesota,3,1,Real Salt Lake,"19,635",Allianz Field
+Wed,9/25/2019,19:00,Minnesota,2,1,Sporting KC,"19,609",Allianz Field
+Sun,9/29/2019,18:30,Minnesota,1,1,Los Angeles FC,"19,706",Allianz Field
+Sat,3/17/2018,13:00,Minnesota,2,1,Chicago,"23,138",TCF Bank Stadium
+Sat,3/31/2018,19:00,Minnesota,0,1,Atlanta,"18,057",TCF Bank Stadium
+Sat,4/28/2018,19:00,Minnesota,2,1,Houston,"21,574",TCF Bank Stadium
+Sat,5/5/2018,13:00,Minnesota,1,0,Vancouver,"19,642",TCF Bank Stadium
+Sat,5/12/2018,13:00,Minnesota,1,3,San Jose,"19,721",TCF Bank Stadium
+Sun,5/20/2018,13:00,Minnesota,1,1,Sporting KC,"23,117",TCF Bank Stadium
+Sat,5/26/2018,19:00,Minnesota,2,0,Montreal,"21,331",TCF Bank Stadium
+Fri,6/29/2018,19:00,Minnesota,0,1,FC Dallas,"22,345",TCF Bank Stadium
+Wed,7/4/2018,18:00,Minnesota,4,3,Toronto FC,"20,559",TCF Bank Stadium
+Sat,7/14/2018,19:00,Minnesota,3,2,Real Salt Lake,"23,667",TCF Bank Stadium
+Wed,7/18/2018,19:00,Minnesota,2,1,New England,"27,544",TCF Bank Stadium
+Sun,7/22/2018,18:00,Minnesota,5,1,Los Angeles FC,"22,739",TCF Bank Stadium
+Sat,8/4/2018,19:00,Minnesota,1,2,Seattle,"24,482",TCF Bank Stadium
+Sat,9/22/2018,19:00,Minnesota,3,2,Portland,"24,525",TCF Bank Stadium
+Sat,9/29/2018,19:00,Minnesota,2,1,NYCFC,"21,926",TCF Bank Stadium
+Sat,10/13/2018,13:00,Minnesota,0,2,Colorado,"19,733",TCF Bank Stadium
+Sun,10/21/2018,16:00,Minnesota,1,3,LA Galaxy,"52,242",TCF Bank Stadium
+Sat,4/13/2019,13:00 (12:00),Montreal,1,0,Columbus,"18,634",Saputo Stadium
+Sun,4/28/2019,12:30 (11:30),Montreal,1,0,Chicago,"15,758",Saputo Stadium
+Sat,5/4/2019,17:00 (16:00),Montreal,0,2,NYCFC,"16,961",Saputo Stadium
+Sat,5/18/2019,13:00 (12:00),Montreal,0,0,New England,"15,559",Saputo Stadium
+Wed,5/29/2019,19:30 (18:30),Montreal,2,1,Real Salt Lake,"11,966",Saputo Stadium
+Sat,6/1/2019,17:00 (16:00),Montreal,0,3,Orlando City,"17,018",Saputo Stadium
+Wed,6/5/2019,19:30 (18:30),Montreal,2,1,Seattle,"13,037",Saputo Stadium
+Wed,6/26/2019,19:30 (18:30),Montreal,2,1,Portland,"15,167",Saputo Stadium
+Sat,7/6/2019,19:30 (18:30),Montreal,2,3,Minnesota,"16,796",Saputo Stadium
+Sat,7/13/2019,19:30 (18:30),Montreal,0,2,Toronto FC,"19,619",Saputo Stadium
+Sat,7/27/2019,20:00 (19:00),Montreal,4,0,Philadelphia,"16,344",Saputo Stadium
+Sat,8/17/2019,19:30 (18:30),Montreal,3,3,FC Dallas,"17,509",Saputo Stadium
+Wed,8/28/2019,20:00 (19:00),Montreal,2,1,Vancouver,"14,513",Saputo Stadium
+Sat,8/31/2019,19:30 (18:30),Montreal,0,3,D.C. United,"18,285",Saputo Stadium
+Sat,9/14/2019,19:30 (18:30),Montreal,0,1,FC Cincinnati,"17,159",Saputo Stadium
+Sun,9/29/2019,17:00 (16:00),Montreal,1,1,Atlanta,"15,557",Saputo Stadium
+Sun,10/6/2019,16:00 (15:00),Montreal,3,0,NY Red Bulls,"15,022",Saputo Stadium
+Sat,3/17/2018,15:00 (14:00),Montreal,1,0,Toronto FC,"26,005",Olympic Stadium
+Sat,4/21/2018,13:00 (12:00),Montreal,3,5,Los Angeles FC,"20,302",Saputo Stadium
+Sat,5/5/2018,13:00 (12:00),Montreal,4,2,New England,"15,622",Saputo Stadium
+Sat,5/12/2018,15:00 (14:00),Montreal,0,2,Philadelphia,"17,140",Saputo Stadium
+Mon,5/21/2018,15:00 (14:00),Montreal,0,1,LA Galaxy,"20,801",Saputo Stadium
+Sat,6/2/2018,19:30 (18:30),Montreal,1,0,Houston,"17,512",Saputo Stadium
+Wed,6/13/2018,19:30 (18:30),Montreal,3,0,Orlando City,"15,621",Saputo Stadium
+Sat,6/30/2018,19:00 (18:00),Montreal,2,0,Sporting KC,"16,142",Saputo Stadium
+Sat,7/7/2018,19:30 (18:30),Montreal,2,1,Colorado,"16,030",Saputo Stadium
+Sat,7/14/2018,19:30 (18:30),Montreal,2,0,San Jose,"15,485",Saputo Stadium
+Sat,7/28/2018,19:00 (18:00),Montreal,1,2,Atlanta,"19,064",Saputo Stadium
+Sat,8/4/2018,19:30 (18:30),Montreal,1,1,D.C. United,"19,152",Saputo Stadium
+Sat,8/18/2018,19:30 (18:30),Montreal,2,1,Chicago,"18,831",Saputo Stadium
+Sat,9/1/2018,19:30 (18:30),Montreal,3,0,NY Red Bulls,"18,458",Saputo Stadium
+Sat,9/22/2018,19:30 (18:30),Montreal,1,1,NYCFC,"20,801",Saputo Stadium
+Sat,10/6/2018,15:00 (14:00),Montreal,3,0,Columbus,"19,015",Saputo Stadium
+Sun,10/21/2018,15:00 (14:00),Montreal,2,0,Toronto FC,"19,684",Saputo Stadium
+Sat,3/9/2019,14:00 (13:00),New England,0,2,Columbus,"13,808",Gillette Stadium
+Sun,3/24/2019,16:00 (15:00),New England,0,2,FC Cincinnati,"10,605",Gillette Stadium
+Sat,3/30/2019,14:00 (13:00),New England,2,1,Minnesota,"10,657",Gillette Stadium
+Sat,4/13/2019,19:30 (18:30),New England,0,2,Atlanta,"15,016",Gillette Stadium
+Sat,4/20/2019,19:30 (18:30),New England,1,0,NY Red Bulls,"14,514",Gillette Stadium
+Wed,4/24/2019,19:30 (18:30),New England,0,3,Montreal,"9,422",Gillette Stadium
+Sat,5/11/2019,19:30 (18:30),New England,3,1,San Jose,"20,610",Gillette Stadium
+Sat,5/25/2019,19:30 (18:30),New England,1,1,D.C. United,"20,131",Gillette Stadium
+Wed,6/26/2019,19:00 (18:00),New England,1,1,Philadelphia,"11,571",Gillette Stadium
+Sat,6/29/2019,19:30 (18:30),New England,2,1,Houston,"17,372",Gillette Stadium
+Wed,7/17/2019,19:00 (18:00),New England,4,0,Vancouver,"10,575",Gillette Stadium
+Sat,7/27/2019,19:00 (18:00),New England,4,1,Orlando City,"19,043",Gillette Stadium
+Sat,8/3/2019,19:30 (18:30),New England,0,2,Los Angeles FC,"25,515",Gillette Stadium
+Sat,8/24/2019,19:30 (18:30),New England,2,1,Chicago,"16,236",Gillette Stadium
+Sat,8/31/2019,19:30 (18:30),New England,1,1,Toronto FC,"16,588",Gillette Stadium
+Sat,9/21/2019,19:30 (18:30),New England,0,0,Real Salt Lake,"24,270",Gillette Stadium
+Sun,9/29/2019,17:00 (16:00),New England,2,0,NYCFC,"28,602",Gillette Stadium
+Sat,3/10/2018,13:30 (12:30),New England,2,1,Colorado,"13,305",Gillette Stadium
+Sat,3/24/2018,13:30 (12:30),New England,2,2,NYCFC,"12,376",Gillette Stadium
+Fri,4/6/2018,19:30 (18:30),New England,4,0,Montreal,"10,908",Gillette Stadium
+Sat,4/14/2018,19:30 (18:30),New England,0,1,FC Dallas,"11,508",Gillette Stadium
+Sat,4/28/2018,19:30 (18:30),New England,1,0,Sporting KC,"17,015",Gillette Stadium
+Sat,5/12/2018,19:30 (18:30),New England,3,2,Toronto FC,"19,596",Gillette Stadium
+Sat,5/19/2018,19:30 (18:30),New England,0,1,Columbus,"14,087",Gillette Stadium
+Wed,5/30/2018,19:30 (18:30),New England,1,1,Atlanta,"10,547",Gillette Stadium
+Sat,6/2/2018,19:30 (18:30),New England,2,1,NY Red Bulls,"21,576",Gillette Stadium
+Sat,6/30/2018,19:30 (18:30),New England,3,2,D.C. United,"19,371",Gillette Stadium
+Sat,7/7/2018,19:30 (18:30),New England,0,0,Seattle,"16,484",Gillette Stadium
+Sat,7/14/2018,19:30 (18:30),New England,2,3,LA Galaxy,"36,573",Gillette Stadium
+Sat,8/11/2018,19:30 (18:30),New England,2,3,Philadelphia,"19,516",Gillette Stadium
+Sat,9/1/2018,19:30 (18:30),New England,1,1,Portland,"16,040",Gillette Stadium
+Sat,9/22/2018,19:30 (18:30),New England,2,2,Chicago,"24,388",Gillette Stadium
+Sat,10/13/2018,19:30 (18:30),New England,2,0,Orlando City,"19,775",Gillette Stadium
+Sun,10/28/2018,16:30 (15:30),New England,1,0,Montreal,"28,832",Gillette Stadium
+Sat,3/16/2019,15:30 (14:30),NY Red Bulls,4,1,San Jose,"15,621",Red Bull Arena
+Sat,3/23/2019,19:30 (18:30),NY Red Bulls,0,1,Orlando City,"15,108",Red Bull Arena
+Sat,4/6/2019,19:00 (18:00),NY Red Bulls,1,2,Minnesota,"15,706",Red Bull Arena
+Sat,4/27/2019,19:00 (18:00),NY Red Bulls,1,0,FC Cincinnati,"16,848",Red Bull Arena
+Sat,5/4/2019,14:00 (13:00),NY Red Bulls,3,2,LA Galaxy,"20,128",Red Bull Arena
+Wed,5/8/2019,20:00 (19:00),NY Red Bulls,1,2,Montreal,"11,115",Red Bull Arena
+Sun,5/19/2019,17:00 (16:00),NY Red Bulls,1,0,Atlanta,"18,495",Red Bull Arena
+Wed,5/22/2019,20:00 (19:00),NY Red Bulls,2,2,Vancouver,"13,035",Red Bull Arena
+Sat,6/1/2019,19:00 (18:00),NY Red Bulls,4,0,Real Salt Lake,"19,122",Red Bull Arena
+Fri,6/28/2019,20:00 (19:00),NY Red Bulls,3,1,Chicago,"17,563",Red Bull Arena
+Sun,7/14/2019,18:30 (17:30),NY Red Bulls,2,1,NYCFC,"20,128",Red Bull Arena
+Sat,7/27/2019,19:30 (18:30),NY Red Bulls,2,3,Columbus,"16,126",Red Bull Arena
+Sat,8/3/2019,18:00 (17:00),NY Red Bulls,2,0,Toronto FC,"20,128",Red Bull Arena
+Sat,8/17/2019,19:00 (18:00),NY Red Bulls,1,1,New England,"18,177",Red Bull Arena
+Sat,8/31/2019,19:00 (18:00),NY Red Bulls,0,2,Colorado,"17,089",Red Bull Arena
+Sun,9/22/2019,18:30 (17:30),NY Red Bulls,2,0,Philadelphia,"19,262",Red Bull Arena
+Sun,9/29/2019,17:00 (16:00),NY Red Bulls,0,0,D.C. United,"28,118",Red Bull Arena
+Sat,3/10/2018,19:00 (18:00),NY Red Bulls,4,0,Portland,"18,374",Red Bull Arena
+Sat,3/24/2018,19:00 (18:00),NY Red Bulls,3,0,Minnesota,"14,768",Red Bull Arena
+Sat,4/14/2018,13:00 (12:00),NY Red Bulls,3,1,Montreal,"15,017",Red Bull Arena
+Sat,4/21/2018,15:30 (14:30),NY Red Bulls,1,2,Chicago,"18,784",Red Bull Arena
+Sat,5/5/2018,13:55 (12:55),NY Red Bulls,4,0,NYCFC,"25,219",Red Bull Arena
+Sat,5/26/2018,19:00 (18:00),NY Red Bulls,0,0,Philadelphia,"17,814",Red Bull Arena
+Wed,6/13/2018,20:00 (19:00),NY Red Bulls,2,1,Seattle,"15,553",Red Bull Arena
+Sat,6/23/2018,18:00 (17:00),NY Red Bulls,3,0,FC Dallas,"20,827",Red Bull Arena
+Sat,7/14/2018,19:00 (18:00),NY Red Bulls,3,2,Sporting KC,"16,793",Red Bull Arena
+Sat,7/21/2018,19:00 (18:00),NY Red Bulls,2,0,New England,"16,027",Red Bull Arena
+Sat,7/28/2018,19:00 (18:00),NY Red Bulls,2,3,Columbus,"16,459",Red Bull Arena
+Sun,8/5/2018,18:00 (17:00),NY Red Bulls,2,1,Los Angeles FC,"20,402",Red Bull Arena
+Sun,8/26/2018,19:00 (18:00),NY Red Bulls,1,0,D.C. United,"22,324",Red Bull Arena
+Wed,8/29/2018,20:00 (19:00),NY Red Bulls,1,0,Houston,"15,042",Red Bull Arena
+Sat,9/22/2018,17:00 (16:00),NY Red Bulls,2,0,Toronto FC,"20,731",Red Bull Arena
+Sun,9/30/2018,13:00 (12:00),NY Red Bulls,2,0,Atlanta,"22,057",Red Bull Arena
+Sun,10/28/2018,16:30 (15:30),NY Red Bulls,1,0,Orlando City,"20,023",Red Bull Arena
+Sun,3/10/2019,15:00 (14:00),NYCFC,0,0,D.C. United,"24,361",Yankee Stadium
+Sun,3/17/2019,15:00 (14:00),NYCFC,2,2,Los Angeles FC,"20,339",Yankee Stadium
+Sat,4/6/2019,13:00 (12:00),NYCFC,0,0,Montreal,"19,353",Yankee Stadium
+Wed,4/24/2019,19:00 (18:00),NYCFC,1,0,Chicago,"21,791",Yankee Stadium
+Sat,4/27/2019,13:00 (12:00),NYCFC,1,1,Orlando City,"20,862",Yankee Stadium
+Thu,6/6/2019,19:00 (18:00),NYCFC,5,2,FC Cincinnati,"18,597",Yankee Stadium
+Sat,6/29/2019,19:00 (18:00),NYCFC,4,2,Philadelphia,"24,451",Yankee Stadium
+Wed,7/3/2019,19:00 (18:00),NYCFC,3,0,Seattle,"18,217",Yankee Stadium
+Sun,7/7/2019,18:30 (17:30),NYCFC,0,1,Portland,"18,363",Yankee Stadium
+Fri,7/26/2019,19:30 (18:30),NYCFC,3,1,Sporting KC,"20,178",Yankee Stadium
+Thu,8/8/2019,19:00 (18:00),NYCFC,3,2,Houston,"18,113",Yankee Stadium
+Wed,8/21/2019,19:00 (18:00),NYCFC,1,0,Columbus,"19,828",Yankee Stadium
+Sat,8/24/2019,19:00 (18:00),NYCFC,2,1,NY Red Bulls,"28,895",Yankee Stadium
+Sat,9/7/2019,15:30 (14:30),NYCFC,2,1,New England,"21,236",Yankee Stadium
+Wed,9/11/2019,19:00 (18:00),NYCFC,1,1,Toronto FC,"19,267",Yankee Stadium
+Sat,9/14/2019,12:30 (11:30),NYCFC,2,1,San Jose,"20,679",Yankee Stadium
+Wed,9/25/2019,19:00 (18:00),NYCFC,4,1,Atlanta,"24,290",Yankee Stadium
+Sun,3/11/2018,17:00 (16:00),NYCFC,2,1,LA Galaxy,"26,221",Yankee Stadium
+Sat,3/17/2018,15:30 (14:30),NYCFC,2,0,Orlando City,"18,584",Yankee Stadium
+Wed,4/11/2018,19:00 (18:00),NYCFC,4,0,Real Salt Lake,"18,603",Yankee Stadium
+Sun,4/29/2018,18:30 (17:30),NYCFC,3,1,FC Dallas,"22,115",Yankee Stadium
+Sat,5/19/2018,13:00 (12:00),NYCFC,4,0,Colorado,"21,494",Yankee Stadium
+Sat,6/2/2018,19:30 (18:30),NYCFC,3,0,Orlando City,"22,103",Yankee Stadium
+Sat,6/9/2018,12:30 (11:30),NYCFC,1,1,Atlanta,"25,628",Yankee Stadium
+Sun,6/24/2018,17:00 (16:00),NYCFC,2,1,Toronto FC,"23,930",Yankee Stadium
+Sun,7/8/2018,19:00 (18:00),NYCFC,1,0,NY Red Bulls,"30,027",Yankee Stadium
+Wed,7/11/2018,19:00 (18:00),NYCFC,3,0,Montreal,"18,706",Yankee Stadium
+Sat,7/14/2018,19:00 (18:00),NYCFC,2,0,Columbus,"21,085",Yankee Stadium
+Sat,8/4/2018,20:00 (19:00),NYCFC,2,2,Vancouver,"20,802",Yankee Stadium
+Wed,8/22/2018,19:00 (18:00),NYCFC,1,1,NY Red Bulls,"30,139",Yankee Stadium
+Wed,9/5/2018,19:00 (18:00),NYCFC,0,1,New England,"18,884",Yankee Stadium
+Sat,9/8/2018,16:55 (15:55),NYCFC,1,1,D.C. United,"28,239",Yankee Stadium
+Wed,9/26/2018,19:00 (18:00),NYCFC,2,0,Chicago,"21,582",Yankee Stadium
+Sun,10/28/2018,16:30 (15:30),NYCFC,3,1,Philadelphia,"26,441",Yankee Stadium
+Sat,3/2/2019,14:30 (13:30),Orlando City,2,2,NYCFC,"25,527",Exploria Stadium
+Sat,3/16/2019,16:00 (15:00),Orlando City,1,3,Montreal,"22,352",Exploria Stadium
+Sun,3/31/2019,18:30 (17:30),Orlando City,1,2,D.C. United,"22,481",Exploria Stadium
+Sat,4/6/2019,19:30 (18:30),Orlando City,4,3,Colorado,"22,450",Exploria Stadium
+Sat,4/20/2019,15:00 (14:00),Orlando City,1,0,Vancouver,"22,468",Exploria Stadium
+Sat,5/4/2019,16:00 (15:00),Orlando City,0,2,Toronto FC,"22,377",Exploria Stadium
+Sun,5/19/2019,15:00 (14:00),Orlando City,5,1,FC Cincinnati,"22,341",Exploria Stadium
+Fri,5/24/2019,19:00 (18:00),Orlando City,0,1,LA Galaxy,"24,712",Exploria Stadium
+Wed,7/3/2019,19:30 (18:30),Orlando City,1,3,Philadelphia,"22,364",Exploria Stadium
+Sat,7/13/2019,19:30 (18:30),Orlando City,1,0,Columbus,"22,397",Exploria Stadium
+Sun,7/21/2019,19:30 (18:30),Orlando City,0,1,NY Red Bulls,"22,408",Exploria Stadium
+Sat,8/3/2019,19:30 (18:30),Orlando City,2,0,FC Dallas,"22,479",Exploria Stadium
+Wed,8/14/2019,19:30 (18:30),Orlando City,1,0,Sporting KC,"22,347",Exploria Stadium
+Fri,8/23/2019,20:00 (19:00),Orlando City,0,1,Atlanta,"23,014",Exploria Stadium
+Sat,9/7/2019,19:30 (18:30),Orlando City,2,2,Los Angeles FC,"22,371",Exploria Stadium
+Sat,9/14/2019,19:30 (18:30),Orlando City,3,3,New England,"22,419",Exploria Stadium
+Sun,10/6/2019,16:00 (15:00),Orlando City,2,5,Chicago,"22,433",Exploria Stadium
+Sat,3/3/2018,19:30 (18:30),Orlando City,1,1,D.C. United,"25,527",Exploria Stadium
+Sat,3/10/2018,19:30 (18:30),Orlando City,1,2,Minnesota,"24,038",Exploria Stadium
+Sat,3/31/2018,13:00 (12:00),Orlando City,4,3,NY Red Bulls,"23,257",Exploria Stadium
+Sun,4/8/2018,16:00 (15:00),Orlando City,3,2,Portland,"22,337",Exploria Stadium
+Sat,4/21/2018,19:30 (18:30),Orlando City,3,2,San Jose,"25,527",Exploria Stadium
+Sun,5/6/2018,17:00 (16:00),Orlando City,3,1,Real Salt Lake,"23,258",Exploria Stadium
+Sun,5/13/2018,18:00 (17:00),Orlando City,1,2,Atlanta,"24,232",Exploria Stadium
+Sat,5/26/2018,19:30 (18:30),Orlando City,1,2,Chicago,"25,288",Exploria Stadium
+Sat,6/23/2018,19:30 (18:30),Orlando City,0,2,Montreal,"23,498",Exploria Stadium
+Sat,7/14/2018,20:00 (19:00),Orlando City,2,1,Toronto FC,"23,420",Exploria Stadium
+Thu,7/26/2018,20:00 (19:00),Orlando City,0,2,NYCFC,"23,790",Exploria Stadium
+Sat,8/4/2018,19:30 (18:30),Orlando City,3,3,New England,"23,879",Exploria Stadium
+Fri,8/24/2018,20:00 (19:00),Orlando City,1,2,Atlanta,"25,058",Exploria Stadium
+Sat,9/1/2018,19:30 (18:30),Orlando City,2,2,Philadelphia,"22,912",Exploria Stadium
+Sat,9/22/2018,19:30 (18:30),Orlando City,0,0,Houston,"23,723",Exploria Stadium
+Wed,10/17/2018,19:30 (18:30),Orlando City,1,2,Seattle,"22,344",Exploria Stadium
+Sun,10/21/2018,15:00 (14:00),Orlando City,2,1,Columbus,"23,642",Exploria Stadium
+Sat,3/2/2019,13:00 (12:00),Philadelphia,1,3,Toronto FC,"16,498",Subaru Park
+Sat,3/23/2019,19:30 (18:30),Philadelphia,3,0,Columbus,"15,135",Subaru Park
+Sat,4/6/2019,19:30 (18:30),Philadelphia,2,1,FC Dallas,"15,844",Subaru Park
+Sat,4/20/2019,13:00 (12:00),Philadelphia,3,0,Montreal,"15,407",Subaru Park
+Wed,5/1/2019,19:30 (18:30),Philadelphia,2,0,FC Cincinnati,"12,890",Subaru Park
+Sat,5/4/2019,19:30 (18:30),Philadelphia,6,1,New England,"15,565",Subaru Park
+Sat,5/18/2019,19:30 (18:30),Philadelphia,0,0,Seattle,"18,540",Subaru Park
+Sat,5/25/2019,19:30 (18:30),Philadelphia,1,3,Portland,"18,474",Subaru Park
+Wed,5/29/2019,20:30 (19:30),Philadelphia,1,1,Colorado,"14,207",Subaru Park
+Sat,6/8/2019,19:30 (18:30),Philadelphia,3,2,NY Red Bulls,"18,767",Subaru Park
+Sun,7/7/2019,16:30 (15:30),Philadelphia,2,2,Orlando City,"18,574",Subaru Park
+Sat,7/20/2019,19:30 (18:30),Philadelphia,2,0,Chicago,"17,471",Subaru Park
+Sun,8/11/2019,18:00 (17:00),Philadelphia,2,1,Houston,"18,550",Subaru Park
+Sat,8/24/2019,19:30 (18:30),Philadelphia,3,1,D.C. United,"18,781",Subaru Park
+Sat,8/31/2019,19:30 (18:30),Philadelphia,3,1,Atlanta,"18,510",Subaru Park
+Sat,9/14/2019,19:30 (18:30),Philadelphia,1,1,Los Angeles FC,"19,145",Subaru Park
+Sun,10/6/2019,16:00 (15:00),Philadelphia,1,2,NYCFC,"18,525",Subaru Park
+Sat,3/3/2018,19:00 (18:00),Philadelphia,2,0,New England,"16,452",Subaru Park
+Sat,3/17/2018,14:00 (13:00),Philadelphia,0,0,Columbus,"15,323",Subaru Park
+Sat,4/7/2018,19:00 (18:00),Philadelphia,1,1,San Jose,"14,795",Subaru Park
+Fri,4/13/2018,20:00 (19:00),Philadelphia,0,2,Orlando City,"16,032",Subaru Park
+Sat,4/28/2018,15:30 (14:30),Philadelphia,3,2,D.C. United,"16,493",Subaru Park
+Sat,5/19/2018,19:30 (18:30),Philadelphia,4,1,Real Salt Lake,"16,019",Subaru Park
+Wed,5/30/2018,19:30 (18:30),Philadelphia,3,1,Chicago,"14,805",Subaru Park
+Fri,6/8/2018,20:00 (19:00),Philadelphia,0,2,Toronto FC,"16,493",Subaru Park
+Sat,6/23/2018,17:00 (16:00),Philadelphia,4,0,Vancouver,"15,250",Subaru Park
+Sat,7/7/2018,19:00 (18:00),Philadelphia,0,2,Atlanta,"17,025",Subaru Park
+Sat,7/21/2018,19:00 (18:00),Philadelphia,1,3,LA Galaxy,"19,013",Subaru Park
+Sat,8/18/2018,19:00 (18:00),Philadelphia,2,0,NYCFC,"17,594",Subaru Park
+Sat,8/25/2018,19:00 (18:00),Philadelphia,1,0,New England,"18,052",Subaru Park
+Sat,9/15/2018,19:30 (18:30),Philadelphia,1,4,Montreal,"18,024",Subaru Park
+Sun,9/23/2018,13:00 (12:00),Philadelphia,2,0,Sporting KC,"15,080",Subaru Park
+Sat,10/6/2018,19:30 (18:30),Philadelphia,5,1,Minnesota,"16,334",Subaru Park
+Sun,10/21/2018,15:00 (14:00),Philadelphia,0,1,NY Red Bulls,"18,021",Subaru Park
+Sat,6/1/2019,19:30 (21:30),Portland,2,3,Los Angeles FC,"25,218",Providence Park
+Sat,6/22/2019,20:00 (22:00),Portland,4,0,Houston,"25,218",Providence Park
+Sun,6/30/2019,20:00 (22:00),Portland,1,0,FC Dallas,"25,218",Providence Park
+Sat,7/13/2019,20:00 (22:00),Portland,2,2,Colorado,"25,218",Providence Park
+Thu,7/18/2019,19:00 (21:00),Portland,1,1,Orlando City,"25,218",Providence Park
+Sat,7/27/2019,19:30 (21:30),Portland,4,0,LA Galaxy,"25,218",Providence Park
+Sat,8/10/2019,20:00 (22:00),Portland,3,1,Vancouver,"25,218",Providence Park
+Wed,8/14/2019,20:00 (22:00),Portland,3,2,Chicago,"25,218",Providence Park
+Sun,8/18/2019,19:00 (21:00),Portland,0,2,Atlanta,"25,218",Providence Park
+Fri,8/23/2019,19:00 (21:00),Portland,1,2,Seattle,"25,218",Providence Park
+Sat,8/31/2019,19:30 (21:30),Portland,1,0,Real Salt Lake,"25,218",Providence Park
+Sat,9/7/2019,19:30 (21:30),Portland,2,1,Sporting KC,"25,218",Providence Park
+Sun,9/15/2019,12:30 (14:30),Portland,0,1,D.C. United,"25,218",Providence Park
+Wed,9/18/2019,19:30 (21:30),Portland,0,2,NY Red Bulls,"25,218",Providence Park
+Sun,9/22/2019,12:55 (14:55),Portland,0,0,Minnesota,"25,218",Providence Park
+Wed,9/25/2019,19:30 (21:30),Portland,2,2,New England,"25,218",Providence Park
+Sun,10/6/2019,13:00 (15:00),Portland,3,1,San Jose,"25,218",Providence Park
+Sat,4/14/2018,19:30 (21:30),Portland,3,2,Minnesota,"21,144",Providence Park
+Sun,4/22/2018,15:00 (17:00),Portland,3,0,NYCFC,"21,144",Providence Park
+Sun,5/13/2018,13:00 (15:00),Portland,1,0,Seattle,"21,144",Providence Park
+Sat,5/19/2018,12:00 (14:00),Portland,2,1,Los Angeles FC,"21,144",Providence Park
+Sat,6/2/2018,14:00 (16:00),Portland,1,1,LA Galaxy,"21,144",Providence Park
+Sat,6/9/2018,19:30 (21:30),Portland,0,0,Sporting KC,"21,144",Providence Park
+Sat,7/7/2018,20:00 (22:00),Portland,2,1,San Jose,"21,144",Providence Park
+Sat,7/21/2018,20:00 (22:00),Portland,2,2,Montreal,"21,144",Providence Park
+Sat,7/28/2018,20:00 (22:00),Portland,2,1,Houston,"21,144",Providence Park
+Sat,8/4/2018,20:00 (22:00),Portland,3,0,Philadelphia,"21,144",Providence Park
+Sat,8/11/2018,20:00 (22:00),Portland,1,2,Vancouver,"21,144",Providence Park
+Sun,8/26/2018,18:30 (20:30),Portland,0,1,Seattle,"21,144",Providence Park
+Wed,8/29/2018,19:30 (21:30),Portland,2,0,Toronto FC,"21,144",Providence Park
+Sat,9/8/2018,19:30 (21:30),Portland,2,0,Colorado,"21,144",Providence Park
+Wed,9/19/2018,19:30 (21:30),Portland,3,2,Columbus,"21,144",Providence Park
+Sat,9/29/2018,19:30 (21:30),Portland,0,0,FC Dallas,"21,144",Providence Park
+Sun,10/21/2018,14:00 (16:00),Portland,3,0,Real Salt Lake,"21,144",Providence Park
+Sat,3/9/2019,16:00 (17:00),Real Salt Lake,1,0,Vancouver,"17,096",Rio Tinto Stadium
+Sat,3/30/2019,19:00 (20:00),Real Salt Lake,2,4,FC Dallas,"18,220",Rio Tinto Stadium
+Sat,4/13/2019,19:00 (20:00),Real Salt Lake,2,1,Orlando City,"16,770",Rio Tinto Stadium
+Sat,5/4/2019,19:00 (20:00),Real Salt Lake,1,2,Portland,"18,066",Rio Tinto Stadium
+Sat,5/18/2019,13:00 (14:00),Real Salt Lake,3,0,Toronto FC,"15,949",Rio Tinto Stadium
+Fri,5/24/2019,19:00 (20:00),Real Salt Lake,2,1,Atlanta,"17,214",Rio Tinto Stadium
+Sat,6/29/2019,20:00 (21:00),Real Salt Lake,2,0,Sporting KC,"18,933",Rio Tinto Stadium
+Wed,7/3/2019,20:00 (21:00),Real Salt Lake,1,0,Columbus,"19,030",Rio Tinto Stadium
+Sat,7/13/2019,20:00 (21:00),Real Salt Lake,4,0,Philadelphia,"18,925",Rio Tinto Stadium
+Sat,7/20/2019,20:00 (21:00),Real Salt Lake,1,1,Minnesota,"16,992",Rio Tinto Stadium
+Sat,8/3/2019,20:00 (21:00),Real Salt Lake,3,1,NYCFC,"18,282",Rio Tinto Stadium
+Wed,8/14/2019,20:00 (21:00),Real Salt Lake,3,0,Seattle,"17,825",Rio Tinto Stadium
+Sat,8/17/2019,20:00 (21:00),Real Salt Lake,0,2,Los Angeles FC,"18,213",Rio Tinto Stadium
+Sat,8/24/2019,20:00 (21:00),Real Salt Lake,2,0,Colorado,"20,384",Rio Tinto Stadium
+Wed,9/11/2019,19:30 (20:30),Real Salt Lake,1,0,San Jose,"17,196",Rio Tinto Stadium
+Wed,9/25/2019,19:30 (20:30),Real Salt Lake,1,2,LA Galaxy,"20,838",Rio Tinto Stadium
+Sun,9/29/2019,17:30 (18:30),Real Salt Lake,2,1,Houston,"18,117",Rio Tinto Stadium
+Sat,3/10/2018,13:30 (14:30),Real Salt Lake,1,5,Los Angeles FC,"20,706",Rio Tinto Stadium
+Sat,3/17/2018,19:00 (20:00),Real Salt Lake,1,0,NY Red Bulls,"16,334",Rio Tinto Stadium
+Sat,4/7/2018,19:30 (20:30),Real Salt Lake,2,1,Vancouver,"16,015",Rio Tinto Stadium
+Sat,4/21/2018,19:00 (20:00),Real Salt Lake,3,0,Colorado,"17,461",Rio Tinto Stadium
+Sat,5/12/2018,19:00 (20:00),Real Salt Lake,3,2,D.C. United,"16,961",Rio Tinto Stadium
+Wed,5/30/2018,19:30 (20:30),Real Salt Lake,2,1,Houston,"16,613",Rio Tinto Stadium
+Sat,6/2/2018,19:30 (20:30),Real Salt Lake,2,0,Seattle,"18,556",Rio Tinto Stadium
+Sat,6/23/2018,20:00 (21:00),Real Salt Lake,1,1,San Jose,"18,472",Rio Tinto Stadium
+Wed,7/4/2018,20:00 (21:00),Real Salt Lake,4,2,Sporting KC,"19,206",Rio Tinto Stadium
+Sat,7/7/2018,20:00 (21:00),Real Salt Lake,2,0,FC Dallas,"17,319",Rio Tinto Stadium
+Sat,7/21/2018,20:00 (21:00),Real Salt Lake,2,2,Colorado,"19,207",Rio Tinto Stadium
+Sat,8/4/2018,20:00 (21:00),Real Salt Lake,2,1,Chicago,"19,817",Rio Tinto Stadium
+Sat,8/11/2018,20:00 (21:00),Real Salt Lake,1,1,Montreal,"18,901",Rio Tinto Stadium
+Sat,9/1/2018,20:00 (21:00),Real Salt Lake,6,2,LA Galaxy,"21,363",Rio Tinto Stadium
+Sat,9/15/2018,19:30 (20:30),Real Salt Lake,1,1,Minnesota,"19,785",Rio Tinto Stadium
+Sat,10/6/2018,19:30 (20:30),Real Salt Lake,1,4,Portland,"20,034",Rio Tinto Stadium
+Thu,10/18/2018,19:00 (20:00),Real Salt Lake,4,1,New England,"19,536",Rio Tinto Stadium
+Sat,3/2/2019,19:00 (21:00),San Jose,1,2,Montreal,"18,000",Avaya Stadium
+Sat,3/9/2019,17:00 (19:00),San Jose,0,3,Minnesota,"16,411",Avaya Stadium
+Sat,3/30/2019,12:30 (14:30),San Jose,0,5,Los Angeles FC,"18,000",Avaya Stadium
+Sat,4/6/2019,17:00 (19:00),San Jose,3,0,Portland,"16,233",Avaya Stadium
+Sat,4/20/2019,19:00 (21:00),San Jose,4,1,Sporting KC,"15,777",Avaya Stadium
+Sat,5/4/2019,19:00 (21:00),San Jose,1,0,FC Cincinnati,"16,743",Avaya Stadium
+Sat,5/18/2019,12:30 (14:30),San Jose,4,1,Chicago,"15,232",Avaya Stadium
+Sat,6/8/2019,12:30 (14:30),San Jose,2,2,FC Dallas,"16,841",Avaya Stadium
+Wed,6/26/2019,19:30 (21:30),San Jose,2,0,Houston,"15,563",Avaya Stadium
+Sat,6/29/2019,19:00 (21:00),San Jose,3,0,LA Galaxy,"50,850",Stanford Stadium
+Sat,7/6/2019,19:30 (21:30),San Jose,1,0,Real Salt Lake,"15,339",Avaya Stadium
+Sat,7/27/2019,19:00 (21:00),San Jose,3,1,Colorado,"17,762",Avaya Stadium
+Sat,8/3/2019,19:00 (21:00),San Jose,1,1,Columbus,"17,088",Avaya Stadium
+Sat,8/24/2019,19:00 (21:00),San Jose,3,1,Vancouver,"17,458",Avaya Stadium
+Sat,8/31/2019,19:30 (21:30),San Jose,3,0,Orlando City,"17,323",Avaya Stadium
+Wed,9/25/2019,20:00 (22:00),San Jose,1,2,Philadelphia,"16,652",Avaya Stadium
+Sun,9/29/2019,16:30 (18:30),San Jose,0,1,Seattle,"18,000",Avaya Stadium
+Sat,3/3/2018,19:30 (21:30),San Jose,3,2,Minnesota,"18,000",Avaya Stadium
+Sat,3/31/2018,17:00 (19:00),San Jose,1,2,NYCFC,"18,000",Avaya Stadium
+Sat,4/14/2018,19:30 (21:30),San Jose,2,2,Houston,"17,822",Avaya Stadium
+Sat,5/5/2018,19:30 (21:30),San Jose,0,1,Portland,"17,850",Avaya Stadium
+Sat,5/19/2018,19:30 (21:30),San Jose,1,3,D.C. United,"17,644",Avaya Stadium
+Sat,6/9/2018,19:30 (21:30),San Jose,3,4,Los Angeles FC,"17,650",Avaya Stadium
+Wed,6/13/2018,19:30 (21:30),San Jose,2,2,New England,"16,234",Avaya Stadium
+Sat,6/30/2018,19:00 (21:00),San Jose,3,3,LA Galaxy,"50,743",Stanford Stadium
+Wed,7/25/2018,19:30 (21:30),San Jose,0,1,Seattle,"16,478",Avaya Stadium
+Sat,7/28/2018,19:30 (21:30),San Jose,0,0,Real Salt Lake,"16,351",Avaya Stadium
+Sat,8/18/2018,19:00 (21:00),San Jose,1,1,Toronto FC,"17,456",Avaya Stadium
+Sat,8/25/2018,19:00 (21:00),San Jose,2,3,Vancouver,"16,326",Avaya Stadium
+Wed,8/29/2018,19:30 (21:30),San Jose,4,3,FC Dallas,"15,648",Avaya Stadium
+Sat,9/15/2018,19:30 (21:30),San Jose,1,5,Sporting KC,"16,682",Avaya Stadium
+Wed,9/19/2018,20:00 (22:00),San Jose,3,4,Atlanta,"15,948",Avaya Stadium
+Sat,10/6/2018,19:30 (21:30),San Jose,1,3,NY Red Bulls,"17,241",Avaya Stadium
+Sun,10/21/2018,14:00 (16:00),San Jose,0,0,Colorado,"17,474",Avaya Stadium
+Sat,3/2/2019,19:00 (21:00),Seattle,4,1,FC Cincinnati,"39,011",CenturyLink Field
+Sat,3/9/2019,19:00 (21:00),Seattle,2,0,Colorado,"37,725",CenturyLink Field
+Sat,4/6/2019,19:00 (21:00),Seattle,1,0,Real Salt Lake,"37,722",CenturyLink Field
+Sat,4/13/2019,13:00 (15:00),Seattle,3,2,Toronto FC,"37,722",CenturyLink Field
+Wed,4/24/2019,19:30 (21:30),Seattle,2,2,San Jose,"37,722",CenturyLink Field
+Sun,4/28/2019,12:30 (14:30),Seattle,1,1,Los Angeles FC,"38,581",CenturyLink Field
+Sat,5/11/2019,19:00 (21:00),Seattle,1,0,Houston,"39,232",CenturyLink Field
+Wed,5/15/2019,19:30 (21:30),Seattle,2,1,Orlando City,"37,722",CenturyLink Field
+Sat,6/29/2019,19:00 (21:00),Seattle,1,0,Vancouver,"44,489",CenturyLink Field
+Sun,7/14/2019,12:55 (14:55),Seattle,2,1,Atlanta,"38,232",CenturyLink Field
+Sun,7/21/2019,18:30 (20:30),Seattle,1,2,Portland,"50,072",CenturyLink Field
+Sun,8/4/2019,19:00 (21:00),Seattle,2,3,Sporting KC,"37,722",CenturyLink Field
+Sat,8/10/2019,13:00 (15:00),Seattle,3,3,New England,"38,826",CenturyLink Field
+Sun,9/1/2019,15:30 (17:30),Seattle,4,3,LA Galaxy,"46,673",CenturyLink Field
+Sun,9/15/2019,15:00 (17:00),Seattle,4,2,NY Red Bulls,"37,722",CenturyLink Field
+Wed,9/18/2019,19:30 (21:30),Seattle,0,0,FC Dallas,"37,722",CenturyLink Field
+Sun,10/6/2019,13:00 (15:00),Seattle,1,0,Minnesota,"47,297",CenturyLink Field
+Sun,3/4/2018,14:00 (16:00),Seattle,0,1,Los Angeles FC,"40,070",CenturyLink Field
+Sat,3/31/2018,19:00 (21:00),Seattle,0,1,Montreal,"39,469",CenturyLink Field
+Sun,4/22/2018,13:00 (15:00),Seattle,3,1,Minnesota,"39,477",CenturyLink Field
+Sat,5/5/2018,13:00 (15:00),Seattle,0,0,Columbus,"39,515",CenturyLink Field
+Sat,5/26/2018,14:00 (16:00),Seattle,0,1,Real Salt Lake,"39,508",CenturyLink Field
+Sat,6/9/2018,19:00 (21:00),Seattle,2,1,D.C. United,"39,465",CenturyLink Field
+Sat,6/23/2018,19:00 (21:00),Seattle,1,1,Chicago,"39,513",CenturyLink Field
+Sat,6/30/2018,13:30 (15:30),Seattle,2,3,Portland,"47,521",CenturyLink Field
+Sat,7/21/2018,13:00 (15:00),Seattle,2,0,Vancouver,"41,849",CenturyLink Field
+Sun,7/29/2018,14:00 (16:00),Seattle,3,1,NYCFC,"39,528",CenturyLink Field
+Sun,8/12/2018,19:00 (21:00),Seattle,2,1,FC Dallas,"39,522",CenturyLink Field
+Sat,8/18/2018,13:00 (15:00),Seattle,5,0,LA Galaxy,"44,213",CenturyLink Field
+Sat,9/1/2018,13:00 (15:00),Seattle,3,1,Sporting KC,"39,530",CenturyLink Field
+Wed,9/19/2018,20:00 (22:00),Seattle,0,1,Philadelphia,"39,536",CenturyLink Field
+Sat,9/29/2018,13:00 (15:00),Seattle,4,0,Colorado,"40,042",CenturyLink Field
+Mon,10/8/2018,19:30 (21:30),Seattle,4,1,Houston,"39,518",CenturyLink Field
+Sun,10/28/2018,13:30 (15:30),Seattle,2,1,San Jose,"42,617",CenturyLink Field
+Sun,3/10/2019,14:00,Sporting KC,2,0,Philadelphia,"18,738",Children's Mercy Park
+Sat,3/30/2019,14:00,Sporting KC,7,1,Montreal,"18,632",Children's Mercy Park
+Sun,4/14/2019,18:00,Sporting KC,2,2,NY Red Bulls,"17,897",Children's Mercy Park
+Sat,4/27/2019,19:30,Sporting KC,4,4,New England,"18,511",Children's Mercy Park
+Sun,5/5/2019,20:00,Sporting KC,0,3,Atlanta,"18,518",Children's Mercy Park
+Sat,5/18/2019,19:30,Sporting KC,1,1,Vancouver,"18,691",Children's Mercy Park
+Sun,5/26/2019,17:00,Sporting KC,3,2,Seattle,"19,882",Children's Mercy Park
+Wed,5/29/2019,19:30,Sporting KC,0,2,LA Galaxy,"19,979",Children's Mercy Park
+Wed,7/3/2019,19:30,Sporting KC,1,5,Los Angeles FC,"19,754",Children's Mercy Park
+Sat,7/6/2019,19:30,Sporting KC,1,0,Chicago,"18,570",Children's Mercy Park
+Sat,7/20/2019,19:30,Sporting KC,0,2,FC Dallas,"18,736",Children's Mercy Park
+Sat,8/10/2019,19:30,Sporting KC,1,2,Real Salt Lake,"18,219",Children's Mercy Park
+Sat,8/17/2019,19:30,Sporting KC,2,1,San Jose,"17,941",Children's Mercy Park
+Thu,8/22/2019,20:30,Sporting KC,1,0,Minnesota,"17,083",Children's Mercy Park
+Sat,8/31/2019,19:30,Sporting KC,1,0,Houston,"18,917",Children's Mercy Park
+Sat,9/21/2019,19:30,Sporting KC,2,3,Colorado,"18,862",Children's Mercy Park
+Sun,9/29/2019,18:30,Sporting KC,2,2,Portland,"17,281",Children's Mercy Park
+Sun,3/4/2018,18:30,Sporting KC,0,2,NYCFC,"20,831",Children's Mercy Park
+Sat,3/17/2018,19:30,Sporting KC,3,2,San Jose,"18,868",Children's Mercy Park
+Sat,3/31/2018,19:30,Sporting KC,1,0,D.C. United,"18,624",Children's Mercy Park
+Sun,4/15/2018,15:00,Sporting KC,2,2,Seattle,"18,508",Children's Mercy Park
+Fri,4/20/2018,20:00,Sporting KC,6,0,Vancouver,"19,690",Children's Mercy Park
+Sat,5/5/2018,19:30,Sporting KC,1,0,Colorado,"20,553",Children's Mercy Park
+Sun,5/27/2018,17:00,Sporting KC,0,0,Columbus,"20,697",Children's Mercy Park
+Sun,6/3/2018,19:30,Sporting KC,4,1,Minnesota,"20,422",Children's Mercy Park
+Sat,6/23/2018,19:30,Sporting KC,3,2,Houston,"20,081",Children's Mercy Park
+Sat,7/7/2018,19:30,Sporting KC,2,2,Toronto FC,"21,064",Children's Mercy Park
+Sat,7/28/2018,20:00,Sporting KC,2,3,FC Dallas,"20,758",Children's Mercy Park
+Sat,8/18/2018,19:30,Sporting KC,3,0,Portland,"19,737",Children's Mercy Park
+Sat,8/25/2018,19:30,Sporting KC,2,0,Minnesota,"19,345",Children's Mercy Park
+Sat,9/8/2018,19:30,Sporting KC,1,0,Orlando City,"19,332",Children's Mercy Park
+Sun,9/30/2018,16:00,Sporting KC,1,1,Real Salt Lake,"19,844",Children's Mercy Park
+Sat,10/6/2018,19:30,Sporting KC,1,1,LA Galaxy,"20,092",Children's Mercy Park
+Sun,10/28/2018,15:30,Sporting KC,2,1,Los Angeles FC,"20,702",Children's Mercy Park
+Sun,3/17/2019,19:30 (18:30),Toronto FC,3,2,New England,"23,271",BMO Field
+Fri,3/29/2019,20:00 (19:00),Toronto FC,4,0,NYCFC,"25,447",BMO Field
+Sat,4/6/2019,15:00 (14:00),Toronto FC,2,2,Chicago,"26,256",BMO Field
+Fri,4/19/2019,20:00 (19:00),Toronto FC,4,3,Minnesota,"22,651",BMO Field
+Sat,4/27/2019,15:00 (14:00),Toronto FC,1,2,Portland,"24,832",BMO Field
+Sat,5/11/2019,15:00 (14:00),Toronto FC,1,2,Philadelphia,"26,219",BMO Field
+Wed,5/15/2019,20:00 (19:00),Toronto FC,0,0,D.C. United,"26,116",BMO Field
+Sun,5/26/2019,19:30 (18:30),Toronto FC,1,2,San Jose,"23,524",BMO Field
+Fri,6/7/2019,19:00 (18:00),Toronto FC,2,2,Sporting KC,"24,748",BMO Field
+Wed,6/26/2019,20:00 (19:00),Toronto FC,3,2,Atlanta,"24,598",BMO Field
+Wed,7/17/2019,20:00 (19:00),Toronto FC,3,1,NY Red Bulls,"24,462",BMO Field
+Sat,7/20/2019,19:30 (18:30),Toronto FC,1,3,Houston,"25,949",BMO Field
+Sat,7/27/2019,20:00 (19:00),Toronto FC,2,1,FC Cincinnati,"25,765",BMO Field
+Sat,8/10/2019,19:30 (18:30),Toronto FC,1,1,Orlando City,"24,487",BMO Field
+Sat,8/24/2019,19:30 (18:30),Toronto FC,2,1,Montreal,"28,989",BMO Field
+Sun,9/15/2019,17:00 (16:00),Toronto FC,3,2,Colorado,"24,810",BMO Field
+Sun,10/6/2019,16:00 (15:00),Toronto FC,1,0,Columbus,"23,692",BMO Field
+Sat,3/3/2018,13:00 (12:00),Toronto FC,0,2,Columbus,"26,633",BMO Field
+Fri,3/30/2018,20:00 (19:00),Toronto FC,3,1,Real Salt Lake,"28,006",BMO Field
+Sat,4/28/2018,15:00 (14:00),Toronto FC,2,2,Chicago,"26,331",BMO Field
+Fri,5/4/2018,20:00 (19:00),Toronto FC,3,0,Philadelphia,"24,728",BMO Field
+Wed,5/9/2018,19:30 (18:30),Toronto FC,1,2,Seattle,"26,089",BMO Field
+Fri,5/18/2018,20:00 (19:00),Toronto FC,2,1,Orlando City,"28,009",BMO Field
+Fri,5/25/2018,20:00 (19:00),Toronto FC,0,1,FC Dallas,"27,549",BMO Field
+Wed,6/13/2018,20:00 (19:00),Toronto FC,4,4,D.C. United,"23,011",BMO Field
+Sun,7/1/2018,16:30 (15:30),Toronto FC,0,1,NY Red Bulls,"26,363",BMO Field
+Sat,7/28/2018,19:00 (18:00),Toronto FC,3,0,Chicago,"29,190",BMO Field
+Sun,8/12/2018,16:00 (15:00),Toronto FC,2,3,NYCFC,"27,935",BMO Field
+Sat,8/25/2018,20:00 (19:00),Toronto FC,3,1,Montreal,"27,294",BMO Field
+Sat,9/1/2018,20:00 (19:00),Toronto FC,2,4,Los Angeles FC,"28,247",BMO Field
+Sat,9/15/2018,19:30 (18:30),Toronto FC,5,3,LA Galaxy,"30,799",BMO Field
+Sat,9/29/2018,19:30 (18:30),Toronto FC,4,1,New England,"24,710",BMO Field
+Sat,10/6/2018,17:00 (16:00),Toronto FC,1,2,Vancouver,"23,886",BMO Field
+Sun,10/28/2018,16:30 (15:30),Toronto FC,4,1,Atlanta,"23,895",BMO Field
+Sat,3/2/2019,15:00 (17:00),Vancouver,2,3,Minnesota,"27,837",BC Place
+Sat,3/30/2019,19:00 (21:00),Vancouver,0,0,Seattle,"24,803",BC Place
+Fri,4/5/2019,19:00 (21:00),Vancouver,0,2,LA Galaxy,"22,120",BC Place
+Wed,4/17/2019,19:00 (21:00),Vancouver,1,0,Los Angeles FC,"17,038",BC Place
+Sat,4/27/2019,14:00 (16:00),Vancouver,1,1,Philadelphia,"17,835",BC Place
+Fri,5/10/2019,19:00 (21:00),Vancouver,1,0,Portland,"18,356",BC Place
+Wed,5/15/2019,19:00 (21:00),Vancouver,0,1,Atlanta,"16,138",BC Place
+Sat,5/25/2019,16:00 (18:00),Vancouver,2,1,FC Dallas,"18,309",BC Place
+Fri,5/31/2019,19:00 (21:00),Vancouver,1,1,Toronto FC,"21,083",BC Place
+Sat,6/22/2019,19:00 (21:00),Vancouver,2,2,Colorado,"19,893",BC Place
+Sat,7/13/2019,19:00 (21:00),Vancouver,0,3,Sporting KC,"18,700",BC Place
+Sat,7/20/2019,19:00 (21:00),Vancouver,1,3,San Jose,"17,558",BC Place
+Sat,8/17/2019,19:00 (21:00),Vancouver,1,0,D.C. United,"22,120",BC Place
+Sat,8/31/2019,19:00 (21:00),Vancouver,1,3,NYCFC,"17,512",BC Place
+Sat,9/14/2019,19:00 (21:00),Vancouver,2,1,Houston,"17,382",BC Place
+Sat,9/21/2019,14:00 (16:00),Vancouver,1,1,Columbus,"16,683",BC Place
+Sun,10/6/2019,13:00 (15:00),Vancouver,0,1,Real Salt Lake,"18,378",BC Place
+Sun,3/4/2018,15:00 (17:00),Vancouver,2,1,Montreal,"27,837",BC Place
+Sat,3/24/2018,19:00 (21:00),Vancouver,0,0,LA Galaxy,"22,120",BC Place
+Fri,4/13/2018,19:00 (21:00),Vancouver,0,2,Los Angeles FC,"22,120",BC Place
+Fri,4/27/2018,19:30 (21:30),Vancouver,2,0,Real Salt Lake,"19,283",BC Place
+Fri,5/11/2018,19:30 (21:30),Vancouver,2,2,Houston,"18,813",BC Place
+Wed,5/16/2018,19:30 (21:30),Vancouver,2,2,San Jose,"17,357",BC Place
+Sat,5/26/2018,14:30 (16:30),Vancouver,3,3,New England,"22,120",BC Place
+Sat,6/9/2018,16:00 (18:00),Vancouver,5,2,Orlando City,"22,120",BC Place
+Sun,7/1/2018,16:00 (18:00),Vancouver,0,1,Colorado,"21,038",BC Place
+Sat,7/7/2018,19:30 (21:30),Vancouver,3,2,Chicago,"22,120",BC Place
+Sat,7/28/2018,19:00 (21:00),Vancouver,4,2,Minnesota,"20,831",BC Place
+Sat,8/18/2018,16:00 (18:00),Vancouver,2,2,NY Red Bulls,"22,120",BC Place
+Sat,9/1/2018,19:00 (21:00),Vancouver,2,1,San Jose,"22,120",BC Place
+Sat,9/15/2018,19:00 (21:00),Vancouver,1,2,Seattle,"27,863",BC Place
+Sun,9/23/2018,16:00 (18:00),Vancouver,1,2,FC Dallas,"21,190",BC Place
+Wed,10/17/2018,19:00 (21:00),Vancouver,1,4,Sporting KC,"18,689",BC Place
+Sun,10/28/2018,13:30 (15:30),Vancouver,2,1,Portland,"25,348",BC Place
